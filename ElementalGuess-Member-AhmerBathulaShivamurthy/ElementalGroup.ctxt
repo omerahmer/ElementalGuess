@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ElementalGroup
+comment0.text=\r\n\ This\ checks\ if\ the\ player\ elemental\ group\ is\ hitting\ anything\ and\ is\ also\ responsible\ for\ making\ the\ player\ move\ the\ elemental\ group\ however\ they\ want\r\n\ it\ will\ also\ keep\ up\ with\ the\ damage\ done\ to\ the\ elemental\ group.\r\n\ @author\ Eshan\ Bathula,\ Omer\ Ahmer,\ Anish\ Shivamurthy\r\n\ @date\ 12/2/2020\r\n
+comment1.params=
+comment1.target=ElementalGroup()
+comment2.params=
+comment2.target=java.lang.String\ randGroup()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ moveLeft()
+comment6.params=
+comment6.target=void\ moveRight()
+comment7.params=
+comment7.target=void\ moveUp()
+comment8.params=
+comment8.target=void\ moveDown()
+comment9.params=
+comment9.target=void\ checkKeyPress()
+numComments=10

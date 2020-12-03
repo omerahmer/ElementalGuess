@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Elements
+comment0.text=\r\n\ This\ code\ is\ meant\ to\ make\ elements\ randomly\ spawn\ as\ obstacles\ for\ the\ player\r\n\ If\ player\ racks\ up\ enough\ damage,\ they\ lose\r\n\ @author\ Eshan\ Bathula,\ Omer\ Ahmer,\ Anish\ Shivamurthy\r\n\ @date\ 12/2/2020\r\n
+comment1.params=imgName
+comment1.target=Elements(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ fallDown()
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ bottom()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ChemWorld
+comment0.text=\r\n\ This\ is\ responsible\ for\ creating\ the\ world\ that\ the\ game\ takes\ place\ on.\r\n\ \r\n\ @author\ Eshan\ Bathula,\ Omer\ Ahmer,\ Anish\ Shivamurthy\r\n\ @date\ 12/2/2020\r\n
+comment1.params=
+comment1.target=ChemWorld()
+comment2.params=
+comment2.target=DamageCounter\ getDamageCounter()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DamageCounter
+comment0.text=\r\n\ This\ shows\ the\ player\ how\ much\ damage\ they\ have\ taken\r\n\ \r\n\ @author\ Eshan\ Bathula,\ Omer\ Ahmer,\ Anish\ Shivamurthy\r\n\ @date\ 12/2/2020\r\n
+comment1.params=
+comment1.target=DamageCounter()
+comment2.params=damageAmount
+comment2.target=void\ bumpCount(int)
+numComments=3
